@@ -1,0 +1,6 @@
+{
+  "name": "Shree Ganesh Kirana & Supermarket",
+  "description": "Modern Indian Kirana & Online Grocery Store featuring express 30-minute delivery, WhatsApp ordering, live inventory, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
